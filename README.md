@@ -1,3 +1,8 @@
+# About the Project
+
+it is the basic react project to learn about react .
+This project fetch random github user profiles , just enter the number to tell how many users profile you wanted to display.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
